@@ -1,5 +1,5 @@
 {
-	"scope": "text.html string.quoted - source, source.jade, string.name.classes.tag.jade",
+	"scope": "text.html string.quoted, source.jade string.name.classes.tag.jade",
 	"completions" :[
 		{"trigger": "phone\tEntypoClass", "contents": "phone"},
 		{"trigger": "mobile\tEntypoClass", "contents": "mobile"},
